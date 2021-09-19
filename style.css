@@ -1,0 +1,109 @@
+img{
+    max-width: 100%;
+}
+.navbar img{
+    height: 50px;
+}
+.philip-text{
+    margin-top: 150px;
+}
+.philip-section{
+    background: #faf9ff;
+}
+.p-buton{
+    border-radius: 5px;
+    border: none;
+    background: #8391f0;
+    color: #fff;
+    padding: 5px 10px;
+}
+.about-btn{
+    border-radius: 5px;
+    border: none;
+    background: #8391f0;
+    color: #fff;
+    padding: 5px 10px;
+}
+.about-text{
+    margin-top: 85px;
+}
+.about-pic{
+    border: 2px solid #f3f3f3;
+}
+.count-sec{
+    background: #8591ff;
+    color: #fff;
+    padding: 50px;
+}
+.app-buton a{
+    box-shadow: 2.5px 4.33px 30px 0 rgb(64 87 191 / 20%);
+    color: #6278df;
+    font-size: 1.2rem;
+    
+   
+    border-radius: 5px;
+    border: 2px solid #ddd;
+    transition: .3s;
+}
+.app-buton a:hover{
+    background: black !important;
+    color: #ffffff;
+}
+.app-sec{
+    background:#faf9ff ;
+}
+.economy-sec{
+    background: #ffffff;
+    box-shadow: 2.5px 4.33px 30px 0 rgb(64 87 191 / 10%);
+    height: auto;
+    width: 360px;
+    margin: auto;
+    margin-top: 20px;
+}
+.one-roun{
+    border-radius: 50%;
+}
+.teammm{
+    background: #ffffff;
+    padding: 60px 20px;
+    box-shadow: 2.5px 4.33px 30px 0 rgb(64 87 191 / 10%);
+    padding-top: 90px;
+}
+.teammm:hover{
+    box-shadow: 2.5px 4.33px 30px 0 rgb(64 87 191 / 30%);
+}
+
+.team-img{
+    width: 100px;
+    top: -75px;
+}
+
+.team-content{
+   
+}
+
+.team-btn a{
+    box-shadow: 2.5px 4.33px 30px 0 rgb(64 87 191 / 20%);
+    padding: 0.5rem 1rem;
+    border: none;
+    transition: .3s;
+}
+.team-btn a:hover{
+    color: #ffffff;
+    background-color: #465052;
+}
+.form-sec{
+    padding: 50px;
+}
+.form-section{
+    background:#faf9ff ;
+}
+.touch-sec{
+    margin-top: 150px;
+}
+.footer{
+    background: #040a20;
+    color: #fff;
+    padding: 15px;
+  
+}
